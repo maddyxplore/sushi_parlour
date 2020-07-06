@@ -1,0 +1,150 @@
+* {
+    font-family: 'Advent Pro';
+}
+.bg-img {
+    background-image: url("https://s3.ap-south-1.amazonaws.com/mumbai.urbanpiper.com/media/gallery_images/2019/06/11/Website_Mail_Slider_4_COMPRESSED.jpg");
+    min-height: 620px;
+    min-width: 100%;
+    background-position: center;
+    margin-left: -20%;    
+  }
+  
+.nav-item{
+    font-size:30px;
+    color:#44463b;
+    margin-right: 40px;
+    font-weight: "bolder";
+}
+#shopname{
+    margin-top:50px;
+}
+.shopname{
+    font-family: 'Permanent Marker';
+    font-weight:"900";
+    color:#46a049;
+    margin-left: 80%;
+    margin-top: -30px;
+    font-size:50px;
+}
+#new{
+    font-family: 'Bonbon';
+    font-weight:"900";
+    color:#46a049;
+    margin-left: 80%;
+    margin-top: 70px;
+}
+#learn{
+    margin-left:80%;
+    margin-top:80px;
+    color: #46a049;
+}
+.btn{
+    height:60px;
+    width:220px;
+    background:#46a049;
+    font-size: 10px;
+}
+
+#col1{
+    color:white;
+}
+.ques{
+    font-family: 'Permanent Marker';
+    color:#46a049;
+}
+#divi3{
+    background-color:#44463b;
+    min-height: 400px;
+
+}
+#div5{
+    min-height:600px;
+    background-color:#3E4136;
+}
+#div7{
+    min-height:600px;
+    background-color:#212121;
+}
+input,select{
+    background-color:transparent;
+    border-color: aliceblue;
+    border-width:2px;
+    border-radius:5px;
+    width:250px;
+    color:white;
+}
+#div9{
+    min-height:700px;
+    background-color:#3E4136;
+}
+a{
+    text-decoration:underline;
+    text-decoration-color:#46a049 ;
+}
+#div10{
+    min-height:470px;
+    background-color:#212121;
+}
+
+
+
+.demopadding {
+margin:50px auto;
+width:180px;
+text-align:center;
+}
+.icon {
+    position:relative;
+    text-align:center;
+    width:0px;
+    height:0px;
+    padding:20px;
+    border-top-right-radius: 	20px;
+    border-top-left-radius: 	20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 	20px; 
+    -moz-border-radius: 		20px 20px 20px 20px;
+    -webkit-border-radius: 		20px 20px 20px 20px;
+    -khtml-border-radius: 		20px 20px 20px 20px; 	
+    color:#FFFFFF;
+}
+.icon i {
+    font-size:20px;
+    position:absolute;
+    left:9px;
+    top:10px;
+}
+.icon.social {
+    float:left;
+    margin:0 5px 0 0;
+    cursor:pointer;
+    background:white ;
+    color:#262626;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s; 	
+}
+.icon.social:hover {
+    background:#262626 ;
+    color:#6d6e71;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -webkit-filter:	drop-shadow(0 1px 10px rgba(0,0,0,.8));
+    -moz-filter: 	drop-shadow(0 1px 10px rgba(0,0,0,.8));
+    -ms-filter: 		drop-shadow(0 1px 10px rgba(0,0,0,.8));
+    -o-filter: 		drop-shadow(0 1px 10px rgba(0,0,0,.8));
+    filter: 			drop-shadow(0 1px 10px rgba(0,0,0,.8));	 	
+}
+.icon.social.fb i {
+    left:13px;
+    top:10px;
+}
+.icon.social.tw i {
+    left:11px;
+}
+.icon.social.in i {
+    left:11px;
+}
